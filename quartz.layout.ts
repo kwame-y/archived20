@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Source code": "https://github.com/ribozone/notes/",
-      "Main site": "https://ribo.zone",
+      "Source code": "",
+      "Youtube": "https://www.youtube.com/@8bit_amo",
     },
   }),
 }
@@ -28,6 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Graph()),
+    Component.Explorer(),
   ],
   right: [
     Component.DesktopOnly(Component.ContentMeta()),
@@ -51,6 +52,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Graph()),
+    Component.Explorer(),
   ],
   right: [
     Component.DesktopOnly(Component.ContentMeta()),

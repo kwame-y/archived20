@@ -1,0 +1,1 @@
+These are my notes from freshman year of high school. They are pretty messy as I made a bunch of unnecessary links to notes I never made, I have them here just for archiving purposes and to learn from my mistakes

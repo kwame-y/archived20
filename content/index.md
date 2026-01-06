@@ -1,59 +1,86 @@
 ---
-title: recreational notetaking
-description: ribonotes index
+title: ˗ˏˋ ★ ˎˊ˗
+description: stuff leads here eventually
 draft: false
 tags:
-created: 2025-03-03T21:37:00
-modified: 2025-11-03T17:17:35-05:00
+  - garden
+  - attractor
+created: 2025-01-05T17:37:00
+modified: 2026-01-06T01:42:20-06:00
 ---
 
-<style>
-	 .table-container { width: calc(100% - 10px) !important; }
-	 .table-container table { width: 100% !important; }
-	td, th {
-		max-width: 21vw;
-		overflow: hidden;
-		white-space: nowrap;
-		text-overflow: ellipsis;
-	}
-	pre > code { overflow: hidden; }
-</style>
+> *“A work is never completed, but merely abandoned.”*  
+> — Paul Valéry
 
-```
--. .-.   .-. .-.   .-. .-.   .-. .-.   .-. .-.   .-. .-.   .-. .-.   .-. .-.   .-. .-.   .-. .-.   .-. .-.   .-
-  \   \ /   \   \ /   \   \ /   \   \ /   \   \ /   \   \ /   \   \ /   \   \ /   \   \ /   \   \ /   \   \ /  
- / \   \   / \   \   / \   \   / \   \   / \   \   / \   \   / \   \   / \   \   / \   \   / \   \   / \   \   
-'   `-' `-'   `-' `-'   `-' `-'   `-' `-'   `-' `-'   `-' `-'   `-' `-'   `-' `-'   `-' `-'   `-' `-'   `-' `-'
-```
+---
 
- hello! i'm loren. my main site is a [personal homepage](https://ribo.zone) where i put a lot of effort into sharing things that i love. this is my second site, where i put minimal effort into jotting down whatever. it is built from my obsidian vault, which contains lists, drafts, logs, and other scraps.
+hello! i’m kwame.
 
-**major topics**:
-- [[www/index|the world wide web]] -- um. of course
-- [[games/index|games]] -- i try to take detailed notes when i participate in [[games/dev/jams/index|game jams]]
-- [[biology/index|biology]] -- SSGs make it too easy to make 1 billion pages so there's too many of these and they're all super sparse, but maybe one day this will develop into something interesting
+this is **`* archived`**, a personal digital garden: a (hopefully) living archive of notes from my classes, research interests, unfinished ideas, creative projects, and things i don’t want to forget too quickly.
 
-**tags of note:**
-- [[tags/🧫]]  -- my projects (my petri dishes)
-- [[tags/log]]  -- streams of consciousness
+---
 
-## recently updated ([RSS](index.xml))
+## what lives here?
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "page", file.folder as "folder", file.mday as "last modified" FROM -"tags" SORT file.mtime DESC WHERE file.folder != "" AND draft != true LIMIT 10 -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as "page", file.folder as "folder", file.mday as "last modified" FROM -"tags" SORT file.mtime DESC WHERE file.folder != "" AND draft != true LIMIT 10 -->
+you’ll find notes spanning a few overlapping threads:
 
-| page                                                   | folder                   | last modified |
-| ------------------------------------------------------ | ------------------------ | ------------- |
-| [[htaccess]]                    | www/craft                | Nov 3, 2025   |
-| [[bookmarklets]]                  | www                      | Nov 3, 2025   |
-| [[tech/index.md\|index]]                               | tech                     | Oct 29, 2025  |
-| [[luciferase]] | biology/biochem/proteins | Oct 29, 2025  |
-| [[games/dev/index.md\|index]]                          | games/dev                | Oct 28, 2025  |
-| [[biology/zoology/birds/index.md\|index]]              | biology/zoology/birds    | Oct 26, 2025  |
-| [[ideas]]                          | www/craft                | Oct 23, 2025  |
-| [[styleguide]]                     | meta                     | Oct 21, 2025  |
-| [[leaf litter]]              | www/links                | Oct 21, 2025  |
-| [[steam next fest]]          | games                    | Oct 20, 2025  |
-<!-- SerializedQuery END -->
+- **school & coursework**  
+  biology, chemistry, math, and whatever else i’m currently learning --- organized loosely & revised occasionally
+
+- **research & inquiry**  
+  ideas, literature notes, proposals, and background reading, especially around biology, neuroscience, and biomedical engineering.
+
+- **creative work**  
+  music inspiration, compositional sketches, ideas, aesthetics, and references.
+
+- **personal thinking**  
+  thoughts, frameworks, questions, and connections i’m still working through.
+
+---
+
+## how to read this site?
+
+there is no required order.
+
+you can:
+- follow links until something catches,
+- browse by tags,
+- or treat each page as a standalone note.
+
+some notes are **seedlings**, some are **evergreen**, some are quietly decaying. i'll try to mark them honestly.
+
+---
+
+## a note on accuracy & intent
+
+most of what’s here is written to help *me* understand things better.  
+which means:
+- errors are possible,
+- context may be missing,
+- revisions always happen.
+
+if something looks useful, please treat it as a starting point
+
+---
+
+## status & stats
+- 9 notes
+- 0 attachments
+- 9 files
+- 4 links
+- 461 words
+- 4.83 KB of storage
 
 
+once again, this site is actively under construction.  
+pages move, split, merge, and occasionally disappear.
+
+---
+
+if you’re looking for something specific, start here:
+- [[research/index|research]]
+- [[biology/index|biology]]
+- [[creative/music/index|music]]
+- [[ideas/index|ideas]]
+
+otherwise — have fun wandering :)
